@@ -1,0 +1,56 @@
+.sign_form{
+	 box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.5), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.testimonial{
+	 box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.5), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+	height: auto;
+	 text-align: center;
+	 background: linear-gradient(to bottom,  #e84118 0%, #ffffff 100%)
+}
+
+.testimonial2{
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.5), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.frontend_date h3{
+	color: #e84118;
+	text-shadow: 2px 2px #000;
+}
+
+.testimonial img{
+    width: 80%;
+    object-fit: contain; /*to set the image hight*/
+    margin-top: 25%;
+    margin-bottom: 10%;
+    border-radius: 50%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.5), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.heading_div h2.section-heading{
+    color: #c23616;
+    text-align: center;
+    margin-bottom: 40px;
+    font-style: italic;
+}
+
+ .heading_div h2.section-heading:after{
+    background-color: #ff7675;
+    content: "";
+    display: block;
+    width: 100px;
+    height: 3px;
+    margin: 10px auto;
+}
+
+.category_by_id{
+    background-color: #b2bec3;
+}
+.category_by_id h3 {
+   text-align: center;
+}
+
+.testimonial_text{
+    margin-bottom: 45px;
+    padding: 20px;
+}
